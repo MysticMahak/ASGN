@@ -6,7 +6,7 @@ from labels import ID2LABEL, label_is_pii
 import os
 
 
-""" def bio_to_spans(text, offsets, label_ids):
+def bio_to_spans(text, offsets, label_ids):
     spans = []
     current_label = None
     current_start = None
@@ -41,57 +41,6 @@ import os
 
     if current_label is not None:
         spans.append((current_start, current_end, current_label))
-
-    return spans
-"""
-
-def bio_to_spans(tokens, offsets, tag_ids):
-    spans = []
-    current_label = None
-    current_start = None
-    current_end = None
-
-    for tag_id, (start, end) in zip(tag_ids, offsets):
-        tag = ID2LABEL[tag_id]
-
-        if tag == "O" or start == end:
-            if current_label is not None:
-                spans.append({
-                    "start": current_start,
-                    "end": current_end,
-                    "label": current_label
-                })
-                current_label = None
-            continue
-
-        prefix, ent_label = tag.split("-", 1)
-
-        if prefix == "B":
-            if current_label is not None:
-                spans.append({
-                    "start": current_start,
-                    "end": current_end,
-                    "label": current_label
-                })
-            current_label = ent_label
-            current_start = start
-            current_end = end
-
-        elif prefix == "I":
-            if current_label == ent_label:
-                current_end = end
-            else:
-                # I without B → treat as B
-                current_label = ent_label
-                current_start = start
-                current_end = end
-
-    if current_label is not None:
-        spans.append({
-            "start": current_start,
-            "end": current_end,
-            "label": current_label
-        })
 
     return spans
 
