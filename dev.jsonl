@@ -1,0 +1,185 @@
+{"id": "utt_0048", "text": "this is aditya rao from hyderabad my phone is 79270 65379 and email is aditya dot rao at rediffmail dot co.in we can meet on 18/05/2024", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 24, "end": 33, "label": "CITY"}, {"start": 46, "end": 57, "label": "PHONE"}, {"start": 71, "end": 109, "label": "EMAIL"}, {"start": 125, "end": 135, "label": "DATE"}]}
+{"id": "utt_0203", "text": "i am neha dubey travelling to kolkata on 5 july 2023", "entities": [{"start": 5, "end": 15, "label": "PERSON_NAME"}, {"start": 30, "end": 37, "label": "CITY"}, {"start": 41, "end": 52, "label": "DATE"}]}
+{"id": "utt_0169", "text": "my name is sanjay krishnan i work in electronic city in jaipur", "entities": [{"start": 11, "end": 26, "label": "PERSON_NAME"}, {"start": 37, "end": 52, "label": "LOCATION"}, {"start": 56, "end": 62, "label": "CITY"}]}
+{"id": "utt_0690", "text": "the office is near koramangala in lucknow today", "entities": [{"start": 19, "end": 30, "label": "LOCATION"}, {"start": 34, "end": 41, "label": "CITY"}]}
+{"id": "utt_0892", "text": "this is deepak krishnan my phone number is 65910 30021 please call me tomorrow", "entities": [{"start": 8, "end": 23, "label": "PERSON_NAME"}, {"start": 43, "end": 54, "label": "PHONE"}]}
+{"id": "utt_1175", "text": "this is ramesh singh my phone number is 8263560229 please call me tomorrow", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 40, "end": 50, "label": "PHONE"}]}
+{"id": "utt_0622", "text": "i am sanjay patel travelling to pune on 16 august 2025", "entities": [{"start": 5, "end": 17, "label": "PERSON_NAME"}, {"start": 32, "end": 36, "label": "CITY"}, {"start": 40, "end": 54, "label": "DATE"}]}
+{"id": "utt_0045", "text": "email id of tushar dubey is tushar dot dubey at rediffmail dot org", "entities": [{"start": 12, "end": 24, "label": "PERSON_NAME"}, {"start": 28, "end": 66, "label": "EMAIL"}]}
+{"id": "utt_0436", "text": "this is ravi dubey from pune my phone is 6344144885 and email is ravi.dubey@gmail.co we can meet on 13 march 2023", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 24, "end": 28, "label": "CITY"}, {"start": 41, "end": 51, "label": "PHONE"}, {"start": 65, "end": 84, "label": "EMAIL"}, {"start": 100, "end": 113, "label": "DATE"}]}
+{"id": "utt_0367", "text": "this is ramesh singh my phone number is 62073 56475 please call me tomorrow", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 40, "end": 51, "label": "PHONE"}]}
+{"id": "synth_credit_card_f25feba7", "text": "listen 4242 1111 1234 1234", "entities": [{"start": 7, "end": 26, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_a6b25b58", "text": "i think 0000 4242 0000 9999 thanks", "entities": [{"start": 8, "end": 27, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_710f9dac", "text": "listen oh oh oh oh oh oh oh oh four two four two oh oh oh oh", "entities": [{"start": 7, "end": 60, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_19569ad9", "text": "can you verify 9999 0000 1111 4242 ?", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_e561679f", "text": "can you verify 1111 1111 1234 1234 ?", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_4f424d09", "text": "four two four two one one one one one one one one oh oh oh oh thanks", "entities": [{"start": 0, "end": 61, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_e4120703", "text": "i believe 0000 4242 9999 4242 is correct", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_c045d5c7", "text": "listen 1111 0000 1234 4242 please update", "entities": [{"start": 7, "end": 26, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_e9b729a0", "text": "4242 1234 4242 9999 for reference", "entities": [{"start": 0, "end": 19, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_6e62e47a", "text": "i believe one one one one one two three four one one one one four two four two is correct", "entities": [{"start": 10, "end": 78, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_c36955fe", "text": "1234 1234 9999 9999 if needed", "entities": [{"start": 0, "end": 19, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_705c0ec7", "text": "can you verify one one one one four two four two one two three four four two four two ?", "entities": [{"start": 15, "end": 85, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_7d2350b7", "text": "please note one two three four oh oh oh oh one one one one one two three four for reference", "entities": [{"start": 12, "end": 77, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_e86c09a9", "text": "listen 9999 1234 1111 1234", "entities": [{"start": 7, "end": 26, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_d3f82a6c", "text": "0000 9999 0000 9999 please update", "entities": [{"start": 0, "end": 19, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_ef8905c4", "text": "please note 4242 4242 4242 1234 for reference", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_a699c741", "text": "i believe 9999 9999 0000 9999 is correct", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_e849458c", "text": "can you verify 4242 4242 0000 1111 ?", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_0e5fa1ac", "text": "please note nine nine nine nine one two three four nine nine nine nine four two four two for reference", "entities": [{"start": 12, "end": 88, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_1472cb75", "text": "can you verify 1234 0000 4242 1111 ?", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_0df36fd2", "text": "can you verify 1234 1111 1234 0000 ?", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_bf624898", "text": "can you verify 9999 4242 4242 1111 ?", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_938be0bf", "text": "please note one two three four oh oh oh oh four two four two four two four two for reference", "entities": [{"start": 12, "end": 78, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_cd7d9243", "text": "i believe 0000 1234 1234 9999 is correct", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "synth_credit_card_77b95b16", "text": "can you verify 0000 9999 1234 0000 ?", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "synth_phone_c4df509f", "text": "i believe 657-871-3315 is correct", "entities": [{"start": 10, "end": 22, "label": "PHONE"}]}
+{"id": "synth_phone_ebbd2c92", "text": "please note 010 310 5183 for reference", "entities": [{"start": 12, "end": 24, "label": "PHONE"}]}
+{"id": "synth_phone_9b252c35", "text": "the phone is 997 376 3116", "entities": [{"start": 13, "end": 25, "label": "PHONE"}]}
+{"id": "synth_phone_43958655", "text": "my info is 0106513338", "entities": [{"start": 11, "end": 21, "label": "PHONE"}]}
+{"id": "synth_phone_b256931e", "text": "my info is three one seven eight one oh eight oh one three", "entities": [{"start": 11, "end": 58, "label": "PHONE"}]}
+{"id": "synth_phone_ebe25abc", "text": "please note 6026064746", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "synth_phone_88421b4e", "text": "can you verify oh nine eight oh five oh oh nine seven eight ?", "entities": [{"start": 15, "end": 59, "label": "PHONE"}]}
+{"id": "synth_phone_f420252d", "text": "hey eight one two one nine one three six one nine", "entities": [{"start": 4, "end": 49, "label": "PHONE"}]}
+{"id": "synth_phone_3888ef27", "text": "one six nine nine eight five four three five three please update", "entities": [{"start": 0, "end": 50, "label": "PHONE"}]}
+{"id": "synth_phone_76f977f4", "text": "i believe (475) 107-9911 is correct", "entities": [{"start": 10, "end": 24, "label": "PHONE"}]}
+{"id": "synth_phone_3735950b", "text": "please note 135-427-8498 for reference", "entities": [{"start": 12, "end": 24, "label": "PHONE"}]}
+{"id": "synth_phone_72e5bcd7", "text": "listen one two four one one eight two four four nine", "entities": [{"start": 7, "end": 52, "label": "PHONE"}]}
+{"id": "synth_phone_4366cc52", "text": "four eight seven four oh one six four oh oh please update", "entities": [{"start": 0, "end": 43, "label": "PHONE"}]}
+{"id": "synth_phone_26c7f462", "text": "can you verify 427-868-0112 ?", "entities": [{"start": 15, "end": 27, "label": "PHONE"}]}
+{"id": "synth_phone_668394b7", "text": "can you verify 620 450 5331 ?", "entities": [{"start": 15, "end": 27, "label": "PHONE"}]}
+{"id": "synth_phone_e4cd9b41", "text": "just so you know 232 260 2563", "entities": [{"start": 17, "end": 29, "label": "PHONE"}]}
+{"id": "synth_phone_22ffd7e5", "text": "the phone is (073) 375-4330", "entities": [{"start": 13, "end": 27, "label": "PHONE"}]}
+{"id": "synth_phone_cfbb38e8", "text": "i think 458 685 0142 if needed", "entities": [{"start": 8, "end": 20, "label": "PHONE"}]}
+{"id": "synth_phone_49bba59f", "text": "hey 5698169340 if needed", "entities": [{"start": 4, "end": 14, "label": "PHONE"}]}
+{"id": "synth_phone_a62d56ae", "text": "please note 356 159 5148 for reference", "entities": [{"start": 12, "end": 24, "label": "PHONE"}]}
+{"id": "synth_phone_dc1e0818", "text": "i believe 4823662994 is correct", "entities": [{"start": 10, "end": 20, "label": "PHONE"}]}
+{"id": "synth_phone_96a862c9", "text": "can you verify 3699577738 ?", "entities": [{"start": 15, "end": 25, "label": "PHONE"}]}
+{"id": "synth_phone_b71b6104", "text": "please note 489-513-4332 thank you", "entities": [{"start": 12, "end": 24, "label": "PHONE"}]}
+{"id": "synth_phone_006f5f62", "text": "can you verify 176-936-7632 ?", "entities": [{"start": 15, "end": 27, "label": "PHONE"}]}
+{"id": "synth_phone_97a9c285", "text": "please note 3287083172 for reference", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "synth_email_3183e170", "text": "can you verify alex99@example.com ?", "entities": [{"start": 15, "end": 33, "label": "EMAIL"}]}
+{"id": "synth_email_5759f089", "text": "alex99@example.com please update", "entities": [{"start": 0, "end": 18, "label": "EMAIL"}]}
+{"id": "synth_email_0c8fba78", "text": "please note maria_88@example.com for reference", "entities": [{"start": 12, "end": 32, "label": "EMAIL"}]}
+{"id": "synth_email_2dfe8946", "text": "maria_88@yahoo.com for reference", "entities": [{"start": 0, "end": 18, "label": "EMAIL"}]}
+{"id": "synth_email_2de049ff", "text": "please note john.doe@yahoo.com", "entities": [{"start": 12, "end": 30, "label": "EMAIL"}]}
+{"id": "synth_email_b9ade00b", "text": "the email is ramesh@gmail.com", "entities": [{"start": 13, "end": 29, "label": "EMAIL"}]}
+{"id": "synth_email_33ca231a", "text": "just so you know alex99@gmail.com", "entities": [{"start": 17, "end": 33, "label": "EMAIL"}]}
+{"id": "synth_email_481bec6d", "text": "the email is john.doe@example.com", "entities": [{"start": 13, "end": 33, "label": "EMAIL"}]}
+{"id": "synth_email_ebb2fd80", "text": "i believe alex99 at example dot com is correct", "entities": [{"start": 10, "end": 35, "label": "EMAIL"}]}
+{"id": "synth_email_d182a435", "text": "hello ramesh@example.com", "entities": [{"start": 6, "end": 24, "label": "EMAIL"}]}
+{"id": "synth_email_1fadbe5b", "text": "please note alex99@hotmail.com for reference", "entities": [{"start": 12, "end": 30, "label": "EMAIL"}]}
+{"id": "synth_email_d1873051", "text": "i believe alex99@yahoo.com is correct", "entities": [{"start": 10, "end": 26, "label": "EMAIL"}]}
+{"id": "synth_email_5ed155a2", "text": "please note john.doe@gmail.com for reference", "entities": [{"start": 12, "end": 30, "label": "EMAIL"}]}
+{"id": "synth_email_a552687c", "text": "ramesh@gmail.com for reference", "entities": [{"start": 0, "end": 16, "label": "EMAIL"}]}
+{"id": "synth_email_e11f7a72", "text": "can you verify maria_88 at hotmail dot com ?", "entities": [{"start": 15, "end": 42, "label": "EMAIL"}]}
+{"id": "synth_email_c3ef5589", "text": "can you verify alex99@hotmail.com ?", "entities": [{"start": 15, "end": 33, "label": "EMAIL"}]}
+{"id": "synth_email_2eeb9e98", "text": "listen john dot doe at hotmail dot com", "entities": [{"start": 7, "end": 38, "label": "EMAIL"}]}
+{"id": "synth_email_fc133ee2", "text": "please note john.doe@gmail.com", "entities": [{"start": 12, "end": 30, "label": "EMAIL"}]}
+{"id": "synth_email_e131018f", "text": "the email is ramesh@yahoo.com", "entities": [{"start": 13, "end": 29, "label": "EMAIL"}]}
+{"id": "synth_email_90a39308", "text": "please note ramesh@example.com for reference", "entities": [{"start": 12, "end": 30, "label": "EMAIL"}]}
+{"id": "synth_email_3593e62c", "text": "john dot doe at yahoo dot com if needed", "entities": [{"start": 0, "end": 29, "label": "EMAIL"}]}
+{"id": "synth_email_dc780466", "text": "the email is maria_88 at example dot com", "entities": [{"start": 13, "end": 40, "label": "EMAIL"}]}
+{"id": "synth_email_842cbd45", "text": "please note ramesh at gmail dot com for reference", "entities": [{"start": 12, "end": 35, "label": "EMAIL"}]}
+{"id": "synth_email_62e42de6", "text": "john.doe@gmail.com thank you", "entities": [{"start": 0, "end": 18, "label": "EMAIL"}]}
+{"id": "synth_email_737a3d0e", "text": "just so you know john.doe@hotmail.com thank you", "entities": [{"start": 17, "end": 37, "label": "EMAIL"}]}
+{"id": "synth_person_name_b3dd4c39", "text": "ramesh singh thank you", "entities": [{"start": 0, "end": 12, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_943052a6", "text": "please note olga sharma for reference", "entities": [{"start": 12, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_0804d57f", "text": "the person_name is mohit singh", "entities": [{"start": 19, "end": 30, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_b398be4f", "text": "hello maria ivanova thank you", "entities": [{"start": 6, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_af79345c", "text": "i believe mohit garcia is correct", "entities": [{"start": 10, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_3d2f656f", "text": "mohit ivanova thank you", "entities": [{"start": 0, "end": 13, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_ecc9b8c0", "text": "alex kumar for reference", "entities": [{"start": 0, "end": 10, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_ab54a2f8", "text": "listen maria doe", "entities": [{"start": 7, "end": 16, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_06842560", "text": "the person_name is maria ng", "entities": [{"start": 19, "end": 27, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_04e0f0a7", "text": "john doe thank you", "entities": [{"start": 0, "end": 8, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_8db3ff84", "text": "i believe alex ng is correct", "entities": [{"start": 10, "end": 17, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_7171d4b7", "text": "please note li singh for reference", "entities": [{"start": 12, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_7182cfec", "text": "mohit kumar please update", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_39c96ccf", "text": "listen maria kumar if needed", "entities": [{"start": 7, "end": 18, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_01d327d3", "text": "listen sarah sharma", "entities": [{"start": 7, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_c891abd1", "text": "can you verify alex doe ?", "entities": [{"start": 15, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_00325fea", "text": "listen sarah kumar if needed", "entities": [{"start": 7, "end": 18, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_6c56ffc6", "text": "i believe john doe is correct", "entities": [{"start": 10, "end": 18, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_61d4cca6", "text": "can you verify mohit doe ?", "entities": [{"start": 15, "end": 24, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_e21a4f59", "text": "mohit singh thanks", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_f0988712", "text": "can you verify mohit doe ?", "entities": [{"start": 15, "end": 24, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_c264378f", "text": "just so you know john sharma", "entities": [{"start": 17, "end": 28, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_3e07ea25", "text": "hey ramesh sharma thank you", "entities": [{"start": 4, "end": 17, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_4b181ac7", "text": "i believe maria ivanova is correct", "entities": [{"start": 10, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "synth_person_name_93ae19c0", "text": "i believe alex ivanova is correct", "entities": [{"start": 10, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "synth_date_7045e529", "text": "just so you know 24/10/1993 please update", "entities": [{"start": 17, "end": 27, "label": "DATE"}]}
+{"id": "synth_date_52b71aaa", "text": "please note 03/11/2006", "entities": [{"start": 12, "end": 22, "label": "DATE"}]}
+{"id": "synth_date_a0d877ec", "text": "the date is 14/01/2000", "entities": [{"start": 12, "end": 22, "label": "DATE"}]}
+{"id": "synth_date_26b4a872", "text": "please note 10/04/1992 for reference", "entities": [{"start": 12, "end": 22, "label": "DATE"}]}
+{"id": "synth_date_1854d6a1", "text": "can you verify 26/05/2004 ?", "entities": [{"start": 15, "end": 25, "label": "DATE"}]}
+{"id": "synth_date_8d705239", "text": "i believe 04/07/2002 is correct", "entities": [{"start": 10, "end": 20, "label": "DATE"}]}
+{"id": "synth_date_dc956019", "text": "just so you know 02/02/1999", "entities": [{"start": 17, "end": 27, "label": "DATE"}]}
+{"id": "synth_date_3525c544", "text": "the date is 04/08/2008", "entities": [{"start": 12, "end": 22, "label": "DATE"}]}
+{"id": "synth_date_36d17d98", "text": "the date is 18/09/2007", "entities": [{"start": 12, "end": 22, "label": "DATE"}]}
+{"id": "synth_date_98f3c6f0", "text": "i believe 11/12/2017 is correct", "entities": [{"start": 10, "end": 20, "label": "DATE"}]}
+{"id": "synth_date_b930a10b", "text": "27/11/1991 thanks", "entities": [{"start": 0, "end": 10, "label": "DATE"}]}
+{"id": "synth_date_320cafd7", "text": "please note 17/08/2001 for reference", "entities": [{"start": 12, "end": 22, "label": "DATE"}]}
+{"id": "synth_date_7e674d56", "text": "the date is 27/11/2017", "entities": [{"start": 12, "end": 22, "label": "DATE"}]}
+{"id": "synth_date_2b078774", "text": "just so you know 22/06/2011 please update", "entities": [{"start": 17, "end": 27, "label": "DATE"}]}
+{"id": "synth_date_da42a30f", "text": "the date is 22/05/2021", "entities": [{"start": 12, "end": 22, "label": "DATE"}]}
+{"id": "synth_date_689d33f6", "text": "09/06/1995 thank you", "entities": [{"start": 0, "end": 10, "label": "DATE"}]}
+{"id": "synth_date_2d65644a", "text": "i believe 28/11/1990 is correct", "entities": [{"start": 10, "end": 20, "label": "DATE"}]}
+{"id": "synth_date_8f267e9d", "text": "can you verify 20/06/2023 ?", "entities": [{"start": 15, "end": 25, "label": "DATE"}]}
+{"id": "synth_date_fabe052f", "text": "hello 18/05/2003", "entities": [{"start": 6, "end": 16, "label": "DATE"}]}
+{"id": "synth_date_39b9f369", "text": "please note 01/02/2021 for reference", "entities": [{"start": 12, "end": 22, "label": "DATE"}]}
+{"id": "synth_date_c319e67b", "text": "i believe 01/09/2009 is correct", "entities": [{"start": 10, "end": 20, "label": "DATE"}]}
+{"id": "synth_date_1fb0dd1f", "text": "please note 04/08/1997 for reference", "entities": [{"start": 12, "end": 22, "label": "DATE"}]}
+{"id": "synth_date_6ab441fc", "text": "23/09/2008 thank you", "entities": [{"start": 0, "end": 10, "label": "DATE"}]}
+{"id": "synth_date_3a7fe16a", "text": "my info is 18/08/2005", "entities": [{"start": 11, "end": 21, "label": "DATE"}]}
+{"id": "synth_date_d3f0be92", "text": "can you verify 05/12/2022 ?", "entities": [{"start": 15, "end": 25, "label": "DATE"}]}
+{"id": "synth_city_977a8f0d", "text": "delhi if needed", "entities": [{"start": 0, "end": 5, "label": "CITY"}]}
+{"id": "synth_city_b5aa87bd", "text": "new york for reference", "entities": [{"start": 0, "end": 8, "label": "CITY"}]}
+{"id": "synth_city_65cf3561", "text": "please note london for reference", "entities": [{"start": 12, "end": 18, "label": "CITY"}]}
+{"id": "synth_city_2165b079", "text": "delhi if needed", "entities": [{"start": 0, "end": 5, "label": "CITY"}]}
+{"id": "synth_city_2f679014", "text": "the city is delhi", "entities": [{"start": 12, "end": 17, "label": "CITY"}]}
+{"id": "synth_city_20e691ce", "text": "i believe mumbai is correct", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "synth_city_4fdfb8bc", "text": "hello delhi thank you", "entities": [{"start": 6, "end": 11, "label": "CITY"}]}
+{"id": "synth_city_0ef01cfa", "text": "the city is delhi", "entities": [{"start": 12, "end": 17, "label": "CITY"}]}
+{"id": "synth_city_d3c9bb74", "text": "hey new york", "entities": [{"start": 4, "end": 12, "label": "CITY"}]}
+{"id": "synth_city_fe89eda0", "text": "can you verify new york ?", "entities": [{"start": 15, "end": 23, "label": "CITY"}]}
+{"id": "synth_city_5be90872", "text": "listen delhi please update", "entities": [{"start": 7, "end": 12, "label": "CITY"}]}
+{"id": "synth_city_a407a510", "text": "i think bengaluru", "entities": [{"start": 8, "end": 17, "label": "CITY"}]}
+{"id": "synth_city_b1e315f6", "text": "los angeles thank you", "entities": [{"start": 0, "end": 11, "label": "CITY"}]}
+{"id": "synth_city_b5461722", "text": "can you verify los angeles ?", "entities": [{"start": 15, "end": 26, "label": "CITY"}]}
+{"id": "synth_city_1fa5413f", "text": "please note los angeles for reference", "entities": [{"start": 12, "end": 23, "label": "CITY"}]}
+{"id": "synth_city_ce0a9dfc", "text": "i believe new york is correct", "entities": [{"start": 10, "end": 18, "label": "CITY"}]}
+{"id": "synth_city_1fa3495c", "text": "listen los angeles", "entities": [{"start": 7, "end": 18, "label": "CITY"}]}
+{"id": "synth_city_32ab8ca4", "text": "can you verify new york ?", "entities": [{"start": 15, "end": 23, "label": "CITY"}]}
+{"id": "synth_city_abf70860", "text": "bengaluru thanks", "entities": [{"start": 0, "end": 9, "label": "CITY"}]}
+{"id": "synth_city_777fdd95", "text": "new york for reference", "entities": [{"start": 0, "end": 8, "label": "CITY"}]}
+{"id": "synth_city_a7fe2dcc", "text": "i believe mumbai is correct", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "synth_city_9eab1301", "text": "please note mumbai", "entities": [{"start": 12, "end": 18, "label": "CITY"}]}
+{"id": "synth_city_767d3db0", "text": "i believe delhi is correct", "entities": [{"start": 10, "end": 15, "label": "CITY"}]}
+{"id": "synth_city_63f01f67", "text": "please note london", "entities": [{"start": 12, "end": 18, "label": "CITY"}]}
+{"id": "synth_city_da528589", "text": "delhi thanks", "entities": [{"start": 0, "end": 5, "label": "CITY"}]}
+{"id": "synth_location_bcb82f8e", "text": "downtown plaza if needed", "entities": [{"start": 0, "end": 14, "label": "LOCATION"}]}
+{"id": "synth_location_c6dd899f", "text": "downtown plaza for reference", "entities": [{"start": 0, "end": 14, "label": "LOCATION"}]}
+{"id": "synth_location_61ca9018", "text": "please note downtown plaza for reference", "entities": [{"start": 12, "end": 26, "label": "LOCATION"}]}
+{"id": "synth_location_7fbef7f8", "text": "the location is sector 17", "entities": [{"start": 16, "end": 25, "label": "LOCATION"}]}
+{"id": "synth_location_8554aa5e", "text": "i believe downtown plaza is correct", "entities": [{"start": 10, "end": 24, "label": "LOCATION"}]}
+{"id": "synth_location_38270c83", "text": "just so you know market road thank you", "entities": [{"start": 17, "end": 28, "label": "LOCATION"}]}
+{"id": "synth_location_055991ab", "text": "i believe main street is correct", "entities": [{"start": 10, "end": 21, "label": "LOCATION"}]}
+{"id": "synth_location_6424ff9b", "text": "can you verify market road ?", "entities": [{"start": 15, "end": 26, "label": "LOCATION"}]}
+{"id": "synth_location_ec1f528d", "text": "listen market road", "entities": [{"start": 7, "end": 18, "label": "LOCATION"}]}
+{"id": "synth_location_6b446f2a", "text": "please note sector 17 for reference", "entities": [{"start": 12, "end": 21, "label": "LOCATION"}]}
+{"id": "synth_location_0f63ea15", "text": "hey downtown plaza for reference", "entities": [{"start": 4, "end": 18, "label": "LOCATION"}]}
+{"id": "synth_location_e9f1962f", "text": "main street thank you", "entities": [{"start": 0, "end": 11, "label": "LOCATION"}]}
+{"id": "synth_location_efc49784", "text": "can you verify sector 17 ?", "entities": [{"start": 15, "end": 24, "label": "LOCATION"}]}
+{"id": "synth_location_5dc51ac2", "text": "can you verify market road ?", "entities": [{"start": 15, "end": 26, "label": "LOCATION"}]}
+{"id": "synth_location_ab3d3eea", "text": "can you verify downtown plaza ?", "entities": [{"start": 15, "end": 29, "label": "LOCATION"}]}
+{"id": "synth_location_976b635c", "text": "please note downtown plaza please update", "entities": [{"start": 12, "end": 26, "label": "LOCATION"}]}
+{"id": "synth_location_9c6f0dd0", "text": "can you verify downtown plaza ?", "entities": [{"start": 15, "end": 29, "label": "LOCATION"}]}
+{"id": "synth_location_5736febc", "text": "hello downtown plaza if needed", "entities": [{"start": 6, "end": 20, "label": "LOCATION"}]}
+{"id": "synth_location_1f1057a8", "text": "please note market road for reference", "entities": [{"start": 12, "end": 23, "label": "LOCATION"}]}
+{"id": "synth_location_53de1f12", "text": "listen market road please update", "entities": [{"start": 7, "end": 18, "label": "LOCATION"}]}
+{"id": "synth_location_42f610c4", "text": "i believe market road is correct", "entities": [{"start": 10, "end": 21, "label": "LOCATION"}]}
+{"id": "synth_location_6e1ab5ca", "text": "please note downtown plaza for reference", "entities": [{"start": 12, "end": 26, "label": "LOCATION"}]}
+{"id": "synth_location_ae3303cf", "text": "hello main street thank you", "entities": [{"start": 6, "end": 17, "label": "LOCATION"}]}
+{"id": "synth_location_9605ae06", "text": "i believe sector 17 is correct", "entities": [{"start": 10, "end": 19, "label": "LOCATION"}]}
+{"id": "synth_location_c4437432", "text": "i believe downtown plaza is correct", "entities": [{"start": 10, "end": 24, "label": "LOCATION"}]}
